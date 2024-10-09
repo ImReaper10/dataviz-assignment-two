@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dataviz-assignment-two/static/css/main.d9411643.css",
+    "main.js": "/dataviz-assignment-two/static/js/main.7b8037c4.js",
+    "static/js/453.3f5bda53.chunk.js": "/dataviz-assignment-two/static/js/453.3f5bda53.chunk.js",
+    "index.html": "/dataviz-assignment-two/index.html",
+    "main.d9411643.css.map": "/dataviz-assignment-two/static/css/main.d9411643.css.map",
+    "main.7b8037c4.js.map": "/dataviz-assignment-two/static/js/main.7b8037c4.js.map",
+    "453.3f5bda53.chunk.js.map": "/dataviz-assignment-two/static/js/453.3f5bda53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9411643.css",
+    "static/js/main.7b8037c4.js"
+  ]
+}
